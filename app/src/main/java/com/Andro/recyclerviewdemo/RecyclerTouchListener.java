@@ -51,3 +51,5 @@ public class RecyclerTouchListener implements RecyclerView.OnItemTouchListener {
 
     }
 }
+
+//https://tw.saowen.com/a/a1b402d39f68c614d0637f3d0765148638e1978f12ba246cdd55b8337e7719f7
